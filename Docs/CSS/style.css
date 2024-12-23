@@ -1,0 +1,67 @@
+  html {
+    height: 100%;
+    margin: 0;
+  }
+
+  body {
+    background-image: url(../Images/Background.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+  }
+
+  .snoopy-item{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .snoopy-icon{
+    margin-top: 10px;
+    width: 2%;
+  }
+
+  .browser{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .browser-box{
+    width: 100vh;
+    height: 50vh;
+    background-color: rgb(15, 21, 50);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+  }
+
+  .browser-title{
+    margin-top: 5vb;
+    width: 95vb;
+    text-align: center;
+    background-color: rgb(60, 60, 60);
+    font-size: 4vh;
+    padding-left: 20px;
+  }
+
+  .browser-content{
+    margin-top: 15vh;
+    display: flex;
+    align-content: center;
+  }
+
+  .button{
+    color: white;
+    background-color: rgb(60, 60, 60);
+    width: 15vh;
+    margin: 1vw;
+    font-size: 2vh;
+  }
+
+
