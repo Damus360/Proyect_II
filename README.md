@@ -9,3 +9,6 @@
 -Creamos una nueva branch llamada Experimenting
 -Estructuramos el index
 -Le dimos su propio formato css
+
+#24/12/2024
+-Creamos los archivos .html en el folder "Public" para iniciar a formatearlos y linkearlos a la pagina principal
