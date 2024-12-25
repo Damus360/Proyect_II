@@ -12,3 +12,5 @@
 
 #24/12/2024
 -Creamos los archivos .html en el folder "Public" para iniciar a formatearlos y linkearlos a la pagina principal
+-trabajamos en el formato del about
+-agregamos imagenes e iconos a utilizar.
