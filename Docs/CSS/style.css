@@ -143,8 +143,17 @@
 
   .about-links{
     display: flex;
-    flex-direction: column;
-    align-content: start;
+    padding: 20px;
+    justify-content: space-evenly;
+
+  }
+
+  .cv-icon{
+    max-width: 10vh;
+  }
+
+  .linkedin-icon{
+    max-width: 20vh;
   }
 
   .footer-section {
@@ -153,6 +162,7 @@
     background-color: #333;
     color: white;
     text-align: center;
+    align-content: end;
   }
 
   .footer-section a {
