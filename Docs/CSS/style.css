@@ -6,7 +6,7 @@
   body {
     background-image: url(../Images/Background.jpeg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
     font-family: Arial, sans-serif;
     color: white;
@@ -72,7 +72,6 @@
 
   .container {
     width: 100%;
-    
   }
 
   .header-content {
@@ -111,13 +110,15 @@
   }
 
   .about-section{
-    height: 84.5vh;
+    min-height: 84.5vh;
     display: flex;
     flex-direction: column;
     background-color: #f5f5f5;
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: fit-content;
+
   }
 
   .about-column{
@@ -204,19 +205,26 @@
   }
 
   table {
-    font-family: arial, sans-serif;
     border-collapse: collapse;
-    min-width: 100%;
+    max-width: 100%;
     max-height: 100%;
     font-size: 1rem;
+    width: fit-content;
+    height: fit-content;
   }
-  
+
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+    max-width: 1000px;
   }
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+
+  tr:nth-child(1) {
+    background-color: rgb(15, 21, 50);
+    color: white;
   }
