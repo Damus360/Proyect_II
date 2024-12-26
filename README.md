@@ -19,3 +19,4 @@
 -le damos los ultimos toques a la pagina de about.html
 -finished adding the links to the cv and social networks
 -about finished
+Started degree networking
