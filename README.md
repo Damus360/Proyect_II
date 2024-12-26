@@ -19,4 +19,8 @@
 -le damos los ultimos toques a la pagina de about.html
 -finished adding the links to the cv and social networks
 -about finished
-Started degree networking
+-Started degree networking
+
+#26/12/2024
+-Agregamos datos a la tabla
+-Hicimos mas dinamica la interfaz de la web para que los datos no se avalancharan sobre el menu de opciones al reducir la pagina
