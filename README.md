@@ -29,3 +29,4 @@
 -Agregamos links e iconos a la pagina degree.html
 -creamos el contenido de la pagina topic.html
 -le dimos el debido formato a topic.html
+-Added the contact form to contact.html
