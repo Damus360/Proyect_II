@@ -24,3 +24,8 @@
 #26/12/2024
 -Agregamos datos a la tabla
 -Hicimos mas dinamica la interfaz de la web para que los datos no se avalancharan sobre el menu de opciones al reducir la pagina
+
+#27/12/2024
+-Agregamos links e iconos a la pagina degree.html
+-creamos el contenido de la pagina topic.html
+-le dimos el debido formato a topic.html

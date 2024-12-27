@@ -214,7 +214,7 @@
   }
 
   td, th {
-    border: 1px solid #dddddd;
+    border: 3px solid black;
     text-align: left;
     padding: 8px;
     max-width: 1000px;
@@ -227,4 +227,20 @@
   tr:nth-child(1) {
     background-color: rgb(15, 21, 50);
     color: white;
+  }
+
+  .detail-degree{
+    max-width: 75px;
+    width: fit-content;
+  }
+
+  .topic-column{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-content: space-between;
+    background-color: #555;
+    width: 100%;
+    color: white;
+    text-align: start;
   }
