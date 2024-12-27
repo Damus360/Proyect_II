@@ -1,35 +1,36 @@
 # Proyect_II
 
 #23/12/2024
--Creamos el folder a contener todos los documentos
--Creamos index.html
--Creamos el folder para imagenes
--Creamos el folder para css
--Añadimos Imagenes al folder
--Creamos una nueva branch llamada Experimenting
--Estructuramos el index
--Le dimos su propio formato css
+-We create the folder to contain all the documents
+-We create index.html
+-We create the folder for images
+-We create the folder for css
+-We add Images to the folder
+-We created a new branch called Experimenting
+-We structure the index
+-We gave it its own CSS format
 
 #24/12/2024
--Creamos los archivos .html en el folder "Public" para iniciar a formatearlos y linkearlos a la pagina principal
--trabajamos en el formato del about
--agregamos imagenes e iconos a utilizar.
+-We create the .html files in the "Public" folder to start formatting them and linking them to the main page
+-we work in the about format
+-We add images and icons to use.
 
 #25/12/2024
--le damos los ultimos toques a la pagina de about.html
+-We put the finishing touches on the about.html page
 -finished adding the links to the cv and social networks
 -about finished
 -Started degree networking
 
 #26/12/2024
--Agregamos datos a la tabla
--Hicimos mas dinamica la interfaz de la web para que los datos no se avalancharan sobre el menu de opciones al reducir la pagina
+-We add data to the table
+-We made the web interface more dynamic so that the data would not avalanche on the options menu when reducing the page
 
 #27/12/2024
--Agregamos links e iconos a la pagina degree.html
--creamos el contenido de la pagina topic.html
--le dimos el debido formato a topic.html
+-We add links and icons to the degree.html page
+-We create the content of the topic.html page
+-We gave the proper format to topic.html
 -Added the contact form to contact.html
 -Started the network formating
 -finished contact form
 -added new images to use in the webpage
+-Translating everything to english
