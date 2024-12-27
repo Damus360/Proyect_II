@@ -30,3 +30,6 @@
 -creamos el contenido de la pagina topic.html
 -le dimos el debido formato a topic.html
 -Added the contact form to contact.html
+-Started the network formating
+-finished contact form
+-added new images to use in the webpage
