@@ -1,0 +1,171 @@
+commit e54c487e694df6c298ca3d575506390575242112
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:45:36 2024 -0600
+
+    Final Log--taking out creativity
+
+commit a2ffbe0861bb9aca31fda8014366de20f7e252cf
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:35:15 2024 -0600
+
+    Update Topic.html
+
+commit 8e46e1906db3e8d622827f5e725d245dc552316e
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:34:48 2024 -0600
+
+    Update Net.html
+
+commit 0aae2d921a383bd4aa894e223f08929b5fcbec1e
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:34:31 2024 -0600
+
+    Update Contact.html
+
+commit 05214088c7547ef76e3ce1dc24af768dbaf89504
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:33:59 2024 -0600
+
+    Update Degree.html
+
+commit 5f5d106e83731d6ca8faa7784067b5701a5d7810
+Merge: 67a49f3 8330ddf
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:26:52 2024 -0600
+
+    Merge branch 'main' of https://github.com/Damus360/Proyect_II
+
+commit 67a49f3172bc0e2e65688ca88bbf7501bd588618
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:26:47 2024 -0600
+
+    ...
+
+commit 8330ddf2668b255cfccb98f050040c27795c0a8e
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:18:37 2024 -0600
+
+    Update LICENSE
+
+commit 782b44e241bfe3a8d4ebc1a0baf413fa07adc505
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:14:35 2024 -0600
+
+    2.0
+
+commit caebcb0cb3ef689176876074b95d698e711e165a
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 08:06:15 2024 -0600
+
+    adjusting
+
+commit 67c4ae838384abd1f4e428ff7bc55b154e3f71c3
+Merge: cd0e334 70fbe87
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 07:57:44 2024 -0600
+
+    Merge pull request #1 from Damus360/Experimenting
+    
+    Experimenting
+
+commit 70fbe87273d5ea5041676c43e5ca1ad60f592990
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sat Dec 28 07:56:39 2024 -0600
+
+    finishing site and links
+
+commit 18830e51c275c16c90b3dae746402e4ae5f18d31
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 13:27:36 2024 -0600
+
+    Finishing Site
+
+commit 42eb53cf94b10345febef0a89f9db0c6d8cfb743
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 08:41:19 2024 -0600
+
+    arranging tittles
+
+commit 0673d6fe47a3a106d2f9f12be6d74953b988b330
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 08:30:11 2024 -0600
+
+    adjusting names
+
+commit 8cc5c270130ba1d29fe1cc2234c45328e6d6e4b9
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 08:27:19 2024 -0600
+
+    network+form
+
+commit ae143674cf6ce7b34caabbcda2cae8bcb6bbe62a
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 07:31:44 2024 -0600
+
+    contact form
+
+commit 471215479e30e1e2d81d3e1c962839db2acce786
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Fri Dec 27 06:39:25 2024 -0600
+
+    topic completed
+
+commit c8683018c56bb1ac8837d38ecca71a9d6a330127
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Thu Dec 26 17:01:22 2024 -0600
+
+    readme update
+
+commit b67195e6a7731ac07aeb070979fc0896a9086208
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Thu Dec 26 16:59:56 2024 -0600
+
+    agregando datos a la tabla+ dinamismo
+
+commit ce4c5092ba6d8738e2e47534fc44daf17ef61c6e
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Thu Dec 26 15:38:13 2024 -0600
+
+    25/12/2024
+
+commit 5b4a72658d48e3bfc7af841e46328f183096a6a8
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 25 07:27:03 2024 -0600
+
+    about.html finished + detail arrangements
+
+commit 370a7856a1efdc919b182dbd024982a8a75be2e0
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 25 06:11:54 2024 -0600
+
+    about.html avance + estructura base
+
+commit 6705fb61fe09859ac775e73d8b720f7ecb5e4df9
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Tue Dec 24 04:36:35 2024 -0600
+
+    enlazados a pag principal
+
+commit b218893609be1a7e2ee7a9c919a5bed50ec94866
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Tue Dec 24 04:32:39 2024 -0600
+
+    Archivos Rama
+
+commit b401c25f971ff54bbacdabbb8a6f2770dc417c5c
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Mon Dec 23 15:10:47 2024 -0600
+
+    Adding the base of the proyect and a new branch to experiment on
+
+commit cd0e334004c5e3f2447123d66b45ba4ada368afc
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Mon Dec 23 12:24:10 2024 -0600
+
+    Estabelecimos la estructura basica del proyecto
+
+commit 2548edd204c2bc4e2a433208433f5848f48d0aeb
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Mon Dec 23 05:31:44 2024 -0600
+
+    Initial commit
