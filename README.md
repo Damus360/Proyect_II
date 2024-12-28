@@ -34,3 +34,7 @@
 -finished contact form
 -added new images to use in the webpage
 -Translating everything to english
+
+#28/12/2024
+-Adding a table for each year of the degree
+-finishing adding teammates links
